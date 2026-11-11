@@ -1,0 +1,20 @@
+{
+  "name": "nodetdd",
+  "version": "1.0.0",
+  "description": "Actividad 1 TDD + NODE + CI",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest run",
+    "test:watch": "vitest"
+  },
+  "keywords": [],
+  "author": "Ramón Baez Jara",
+  "license": "ISC",
+  "type": "module",
+  "devDependencies": {
+    "vitest": "^5.1.0"
+  },
+  "dependencies": {
+    "chalk": "^6.0.1"
+  }
+}
