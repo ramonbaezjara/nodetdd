@@ -1,5 +1,5 @@
 import { describe, it, expect } from 'vitest';
-import { esPinValido } from '../src/pin.js';
+import { esPinValido } from '../src/pint.js';
 
 describe('Función esPinValido(pin)', () => {
   it('debe devolver false si el PIN es null o undefined', () => {
